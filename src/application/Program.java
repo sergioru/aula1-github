@@ -21,6 +21,7 @@ public class Program {
         
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(new Locale("en", "US"));
+        System.out.println("Teste");
 
 
 
